@@ -1,0 +1,38 @@
+[
+    {
+        "elapsed_time": 12.257534357867533,
+        "validation/main/ap/bottoms": 0.0,
+        "lr": 0.01,
+        "epoch": 10,
+        "main/loss/conf": NaN,
+        "validation/main/ap/tops": 0.0,
+        "main/loss/loc": NaN,
+        "main/loss": NaN,
+        "iteration": 10,
+        "validation/main/map": 0.0
+    },
+    {
+        "elapsed_time": 20.30735336159476,
+        "validation/main/ap/bottoms": 0.0,
+        "lr": 0.01,
+        "epoch": 20,
+        "main/loss/conf": NaN,
+        "validation/main/ap/tops": 0.0,
+        "main/loss/loc": NaN,
+        "main/loss": NaN,
+        "iteration": 20,
+        "validation/main/map": 0.0
+    },
+    {
+        "elapsed_time": 28.26530229021792,
+        "validation/main/ap/bottoms": 0.0,
+        "lr": 0.01,
+        "epoch": 30,
+        "main/loss/conf": NaN,
+        "validation/main/ap/tops": 0.0,
+        "main/loss/loc": NaN,
+        "main/loss": NaN,
+        "iteration": 30,
+        "validation/main/map": 0.0
+    }
+]
